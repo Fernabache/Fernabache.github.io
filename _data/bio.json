@@ -117,29 +117,31 @@
         "Check in code into source control"
       ]
     }
-
-  {
-      "company": "Igbenedion University",
-      "position": "Project Manager (scrum)",
-      "website": "",
-      "startDate": "2019-02-01",
-      "endDate": "2020-01-15",
-      "summary": "",
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Directed the development team in the design, development, coding, testing and debugging of applications",
-        "Coordinated the development staff's schedule and ensure effective communication between team members"
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-       "company": "Jumia Nigeria",
-      "position": "Business Intelligence Analyst",
+      "organization": "",
       "website": "",
-      "startDate": "2016-03-01",
-      "endDate": "2018-01-15",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Designed and built BI solutions for pipeline",
-        "Interpreted data, analyzed results using statistical techniques & provided daily ongoing reports"
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
