@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "name": "Odud Oludotun",
+    "label": "Software/Data Engineer",
+    "picture": "https://fernabache.github.io/images/molly.png",
+    "email": "dotunodude@gmail.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://fernabache.github.io",
+    "summary": "I am a tech enthusiast keen on contributing and delivering tech products across all platforms.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "Remote/ worldwide",
+      "postalCode": "****",
+      "city": "Cloud",
+      "countryCode": "Cloud",
+      "region": "Remote"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "fernabache",
+        "url": "http://github.com/fernabache"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "odudeoludotun",
+        "url": "http://linkedin.com/in/odudeoludotun"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "fernabache",
+        "url": "http://twitter.com/fernabache"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "fernabache",
+        "url": "http://instagram.com/fernabache"
       }
     ]
   },
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "data engineering",
       "keywords": [
       ]
     },
@@ -61,12 +61,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "PHP",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "SQL"
       ]
     },
     {
@@ -77,7 +77,7 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
